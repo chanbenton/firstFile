@@ -1,0 +1,19 @@
+{
+  "name": "firstfile",
+  "version": "0.0.1",
+  "description": "Creating first module for assignment - Requiring Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanbenton/firstFile.git"
+  },
+  "author": "Benton",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/chanbenton/firstFile/issues"
+  },
+  "homepage": "https://github.com/chanbenton/firstFile#readme"
+}
